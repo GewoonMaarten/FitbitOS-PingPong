@@ -1,0 +1,14 @@
+<svg>
+  <rect id="rect" x="0" y="0" width="100%" height="100%" pointer-events="visible" />
+  
+  <text id="txt-score" x="35" y="30" font-family="System-Regular" fill="fb-white"
+        font-size="28" font-weight="bold" width="30%">Score: 0</text>
+  
+  <rect x="50%-10" y="0" width="10" height="100%" fill="fb-extra-dark-gray"/>
+  
+  <rect id="bat-left" x="10" y="0" width="10" height="60" fill="fb-white" />
+  <rect id="bat-right" x="338" y="0" width="10" height="60" fill="fb-white" />
+  
+  <rect id="ball" x="50%-10" y="50%-10" width="10" height="10" fill="fb-blue"/>
+  
+</svg>

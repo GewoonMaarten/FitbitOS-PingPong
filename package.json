@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "3a329af5-bb93-47e3-b65a-7890e6aa0690",
+    "appType": "app",
+    "appDisplayName": "Ping Pong",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "Ping Pong"
+      }
+    }
+  }
+}
